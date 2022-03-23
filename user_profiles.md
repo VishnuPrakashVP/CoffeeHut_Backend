@@ -4,3 +4,4 @@
 * Monthly
 * Quarterly
 * Yearly
+* Loyal

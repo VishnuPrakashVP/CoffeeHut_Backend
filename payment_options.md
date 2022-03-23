@@ -5,4 +5,4 @@
 * UPI
 * Paytm
 * Cash
-
+* CoffeeHut Wallet
